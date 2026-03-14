@@ -1,0 +1,10 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+162.5,-80.0,90.0,top,C1,,,CP_Radial_D6.3mm_P2.50mm,100µF,tht
+162.5,-100.0,90.0,top,C2,,,CP_Radial_D6.3mm_P2.50mm,100µF,tht
+156.25,-80.0,90.0,top,C3,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+155.0,-97.5,-90.0,top,C4,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+121.8,-92.4,0.0,top,F1,,,Fuseholder_Clip-5x20mm_Littelfuse_111_Inline_P20.00x5.00mm_D1.05mm_Horizontal,Fuse,tht
+117.5,-92.5,-90.0,top,J1,,,BarrelJack_CUI_PJ-063AH_Horizontal,Power In (+12VDC),tht
+180.0,-92.5,-90.0,top,J2,,,6710801,Power Out,tht
+128.1,-69.55,0.0,top,U1,,,TO-3,PSU5,tht
+146.6,-92.4,-90.0,top,U2,R-78CK5.0-0.5,,TO-220-3_Vertical,R-78CK5.0-0.5,tht

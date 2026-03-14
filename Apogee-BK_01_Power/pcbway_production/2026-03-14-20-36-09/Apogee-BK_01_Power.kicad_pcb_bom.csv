@@ -1,0 +1,8 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Height,Manufacturer_Name
+"C1, C2",2,100µF,CP_Radial_D6.3mm_P2.50mm,,,,tht,Polarized capacitor,,
+"C3, C4",2,100nF,C_Disc_D3.8mm_W2.6mm_P2.50mm,,,,tht,Unpolarized capacitor,,
+F1,1,Fuse,Fuseholder_Clip-5x20mm_Littelfuse_111_Inline_P20.00x5.00mm_D1.05mm_Horizontal,,,,tht,Fuse,,
+J1,1,Power In (+12VDC),BarrelJack_CUI_PJ-063AH_Horizontal,,,,tht,DC Barrel Jack,,
+J2,1,Power Out,6710801,,,,tht,"Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+U1,1,PSU5,TO-3,,,,tht,,,
+U2,1,R-78CK5.0-0.5,TO-220-3_Vertical,,R-78CK5.0-0.5,,tht,0.5A DC/DC-Converter \'INNOLINE\' SIP3 reg,10.7,RECOM Power
